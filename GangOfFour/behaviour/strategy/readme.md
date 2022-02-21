@@ -1,0 +1,1 @@
+The **Strategy pattern** is very common in Java code. It’s often used in various frameworks to provide users a way to change the behavior of a class without extending it.

@@ -4,14 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>tutorial.abengalicoder</groupId>
-    <artifactId>GangOfFour</artifactId>
+    <artifactId>behaviour</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>tutorial.abengalicoder</groupId>
-  <artifactId>behaviour</artifactId>
+  <artifactId>strategy</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <name>behaviour</name>
+  <name>strategy</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -24,7 +23,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <modules>
-  	<module>strategy</module>
-  </modules>
 </project>
