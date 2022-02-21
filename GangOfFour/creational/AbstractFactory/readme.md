@@ -1,0 +1,5 @@
+**Abstract Factory pattern** is almost similar to Factory Pattern is considered as another layer of abstraction over factory pattern. Abstract Factory patterns work around a super-factory which creates other factories.
+
+
+Let’s take an example, Suppose we want to build a global car factory. If it was a factory design pattern, then it was suitable for a single location. But for this pattern, we need multiple locations and some critical design changes.
+We need car factories in each location like IndiaCarFactory, USACarFactory, and DefaultCarFactory. Now, our application should be smart enough to identify the location where it is being used, so we should be able to use the appropriate car factory without even knowing which car factory implementation will be used internally. This also saves us from someone calling the wrong factory for a particular location.
