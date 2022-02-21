@@ -30,5 +30,6 @@
     <module>Adapter</module>
     <module>composite</module>
     <module>fly-weight</module>
+    <module>proxy</module>
   </modules>
 </project>
