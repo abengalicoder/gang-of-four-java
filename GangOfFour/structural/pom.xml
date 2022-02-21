@@ -28,5 +28,6 @@
     <module>FacadePattern</module>
     <module>Bridge</module>
     <module>Adapter</module>
+    <module>composite</module>
   </modules>
 </project>
