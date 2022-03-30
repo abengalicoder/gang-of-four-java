@@ -1,4 +1,4 @@
-package tutorial.abengalicoder.singleton;
+package tutorial.abengalicoder.BasicSingleton;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

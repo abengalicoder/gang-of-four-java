@@ -4,15 +4,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>tutorial.abengalicoder</groupId>
-    <artifactId>creational</artifactId>
+    <artifactId>singleton</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>tutorial.abengalicoder</groupId>
-  <artifactId>singleton</artifactId>
+  <artifactId>BasicSingleton</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>singleton</name>
+  <name>BasicSingleton</name>
   <url>http://maven.apache.org</url>
-  <packaging>pom</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
@@ -24,7 +23,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <modules>
-  	<module>BasicSingleton</module>
-  </modules>
 </project>
